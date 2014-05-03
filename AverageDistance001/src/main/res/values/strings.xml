@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AverageDistance001</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Calc_EU">Calc EU</string>
+    <string name="Calc_DBA">Calc DTW</string>
+    <string name="Something">---- --</string>
+
+</resources>
